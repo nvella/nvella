@@ -13,7 +13,7 @@ During 2020 and 2021 I [made contributions](https://github.com/SerenityOS/sereni
 
 #### Open Live Writer (.NET Framework, WinForms)
 
-[Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) is the open-source continuation of the popular 'Windows Live Writer' blog authoring app for Windows. During late 2019, I maintained and contributed to the project in my spare time, fixing bugs and implementing new features to make the software more fit for purpose in the modern blogging environment. Of note;
+[Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) is the open-source continuation of the popular 'Windows Live Writer' blog authoring app for Windows. During late 2019, I [maintained and contributed to the project](https://github.com/OpenLiveWriter/OpenLiveWriter/pulls?q=is%3Apr+author%3Anvella+) in my spare time, fixing bugs and implementing new features to make the software more fit for purpose in the modern blogging environment. Of note;
 
 - [I designed and implemented a simple, but extensible support for external static site generators.](https://github.com/OpenLiveWriter/OpenLiveWriter/pull/844)
 - [I (temporarily) fixed Google Blogger image upload.](https://github.com/OpenLiveWriter/OpenLiveWriter/pull/810)
